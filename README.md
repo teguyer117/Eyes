@@ -4,7 +4,7 @@ Project title: Eye movement project
 
 Project Description: This project demonstrates the use of events in JavaScript. In this case, the
 event is any movememnt of the mouse, which causes the eyeballs to move to follow the movement of
-the mouse. The eyeballs are a class within an html <div> tag whose position is modified in the
+the mouse. The eyeballs are a class within an html "div" tag whose position is modified in the
 styles.css file whenever the mouse is moved.
 
 How to run: Download index.html, eyes.js, and styles.css to the same folder. Run index.html in web
